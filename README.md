@@ -2,7 +2,7 @@
 It is a simple web scraper to fetch data from a news website. Uses **Beautiful Soup** and basic python constructs to carry out scraping.
 
 ## Create a vitual environment
-Refer [this](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/) link to create a virtual environment first.
+Refer [this](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/) link to create a virtual environment intially.
 
 
 ## Installating project dependencies
@@ -23,6 +23,6 @@ python3 base.py
 ```
 
 ## Check the scraped data
-Navigate to **root_folder/fetched_data/HidustanTimes**, and there you'll find the downloaded data in data.csv
+Navigate to the **root_folder/fetched_data/HidustanTimes**, and there you'll find the downloaded data in data.csv
 
 
