@@ -10,4 +10,4 @@ chardet==3.0.4            # via -r requirements.txt, requests
 idna==2.10                # via -r requirements.txt, requests
 requests==2.24.0          # via -r requirements.txt
 soupsieve==2.0.1          # via -r requirements.txt, beautifulsoup4
-urllib3==1.25.9           # via -r requirements.txt, requests
+urllib3==1.26.5           # via -r requirements.txt, requests
